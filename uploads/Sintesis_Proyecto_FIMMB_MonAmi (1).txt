@@ -1,0 +1,38 @@
+SÍNTESIS DEL PROYECTO — CONSULTORA FIMMB SOBRE MON AMI
+=======================================================
+
+LA EMPRESA
+----------
+Mon Ami es una marca de nutrición premium para mascotas perteneciente a Marini & Cía S.A., empresa familiar argentina con más de 40 años de trayectoria fundada por Augusto Marini. Nació tras la venta de Agroindustrias Baires —fabricante de la marca masiva Congo— como una apuesta de nicho orientada a la calidad. Su propuesta de valor se centra en el concepto Human Grade: ingredientes aptos para consumo humano en alimentos para mascotas, siendo la primera marca en aplicar ese estándar en Argentina en 2018. Hoy cuenta con más de 200 empleados, vende en todo el país a través de pet shops y e-commerce propio, y exporta a Estados Unidos, Chile, Uruguay, Perú, Paraguay, España y República Dominicana.
+
+
+INNOVACIÓN EN PRODUCTOS Y SERVICIOS
+-------------------------------------
+Mon Ami es una empresa de innovación incremental: opera en un mercado preexistente y mejora la propuesta sin disrumpir la industria. Aplica cuatro pilares de la Revolución 4.0 — Big Data, Computación en la nube, Ciberseguridad y Sistemas de integración — que le permiten diferenciarse sin cambiar las reglas del mercado. En la Curva S, sus tecnologías se ubican mayormente en etapas de madurez y crecimiento: el e-commerce es tecnología base, la personalización por datos es clave y la IA es emergente.
+
+
+FORTALECER A LOS EMPLEADOS
+----------------------------
+La empresa está en transición de una estructura boutique familiar hacia una entidad más escalable. Identificamos cuatro habilidades 4.0: Metaskilling (apertura a explorar nuevas herramientas), Upskilling (veterinaria interna capacitada en IA), Digital Reskilling (desarrollo de la API ADOC) y Human Reskilling (escucha activa que convierte feedback en decisiones de producto). El aprendizaje es top-down y en la diaria, sin RRHH formal. Los tres desafíos principales son la brecha entre marketing ágil y ventas B2B analógicas, la dueño-dependencia del know-how de Augusto Marini, y la presencialidad obligatoria que limita atraer talento digital. Metodológicamente operan en dualidad: estructura tradicional jerárquica + prácticas ágiles parciales con Asana, Slack y reuniones semanales de sync.
+
+
+OPTIMIZAR LAS OPERACIONES
+---------------------------
+Mon Ami opera con infraestructura híbrida — on-premise + SaaS — sin IaaS ni PaaS por el momento. Su ecosistema de integraciones es sólido para su escala: API ADOC para facturación automática (desarrollo propio con INTEC), ShipNow para logística, MercadoPago para pagos, Perfit para marketing, Clientify como CRM B2B integrado con Meta y WhatsApp Business. La gran limitación es la ausencia de un ERP unificado que integre todas las áreas, dependiendo hoy de la comunicación directa entre personas. En ciberseguridad cumple con SSL, Ley 25.326 y estándares FDA e ISO 22000:2018, aunque el enfoque sigue siendo reactivo.
+
+
+COMPROMETER AL CLIENTE
+------------------------
+Mon Ami no aplica Design Thinking formal ni tiene un equipo de UX dedicado, pero sí opera de forma genuinamente user centric de manera empírica. El caso más claro: rediseñaron las croquetas para gatos a partir del feedback directo de los clientes. Mantiene atención multicanal activa (WhatsApp, email, redes), separó la experiencia de marca de la transaccional en su web, y adapta sus productos al tamaño, etapa de vida y necesidades de cada mascota. Su filosofía Product First — no bajar la calidad pase lo que pase — es en sí misma la experiencia de usuario.
+
+
+FRAMEWORK TECH — DIAGNÓSTICO Y RECOMENDACIONES
+------------------------------------------------
+Corto plazo: 4 pilares activos, red LAN en ubicación única, infraestructura híbrida SaaS, 10 integraciones operativas, equipo mixto sin CTO formal.
+
+Largo plazo: incorporar IA (recomendación + chatbot 24/7), IoT (sensores en producción alineados con ISO/FDA), Big Data avanzado para analítica predictiva, y máquinas autónomas para optimizar producción. En infraestructura, migrar hacia IaaS y PaaS. En integraciones, priorizar ERP central, CRM predictivo y omnicanalidad completa. En equipo, incorporar Scrum Master, formalizar RRHH y rol de CTO, e institucionalizar el know-how en manuales de procedimiento.
+
+
+CONCLUSIÓN GENERAL
+-------------------
+Mon Ami es una empresa con una propuesta de valor sólida y una cultura organizacional con alto compromiso colectivo, que ha logrado digitalizar su superficie — marketing, ventas y atención al cliente — pero mantiene un núcleo todavía analógico en ventas B2B y gestión interna. Sus principales oportunidades de transformación digital son tres: institucionalizar el conocimiento para reducir la dueño-dependencia, incorporar IA para potenciar personalización y predicción, y unificar su ecosistema tecnológico bajo un ERP que permita escalar de forma ordenada. Como sintetizó Antonella Marini: "La marca la hacemos nosotros y la hacemos todos los días todos los que trabajan en la empresa." Esa cultura es hoy su mayor activo, y también la base desde la cual puede construir una transformación digital sostenible.
